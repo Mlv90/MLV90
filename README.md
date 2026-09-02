@@ -1,8 +1,8 @@
 Olá, sou Matheus Vieira..👋
 
-- UX/UI Designer
-- Developer Front-End Jr.
-- Estudande de Análise e Desenvolvimento de Sistemas (graduação)
+Desenvolvedor Front-end Jr. | HTML | CSS | JavaScript | React | UX/UI
+Desenvolvedor em formação, com experiência em Design Gráfico e UX/UI,
+unindo código e design para criar interfaces modernas, responsivas e funcionais.
 
 
 
